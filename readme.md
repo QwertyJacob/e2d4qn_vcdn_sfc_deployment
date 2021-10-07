@@ -1,4 +1,4 @@
-# Online Service Function Chain Deployment for Live-Video virtualized Content Delivery Networks, a Deep Reinforcement Learning approach
+# Online Service Function Chain Deployment for Live-Video in virtualized Content Delivery Networks, a Deep Reinforcement Learning approach
 
 ## Jesús F. Cevallos Moreno, Rebecca Sattler, Raúl P. Caulier Cisterna, Lorenzo Ricciardi Celsi, Aminael Sánchez R., and Massimo Mecella.
 
